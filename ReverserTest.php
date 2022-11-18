@@ -17,7 +17,7 @@ class ReverserTest extends TestCase
         return array (
             array ('abc', 'cba'),
             array ('123', '321'),
-            array ('Привет! Давно не виделись.')
+            array ('Привет! Давно не виделись.', '.ьсиледив ен онваД !тевирП')
         );
     }
 }
